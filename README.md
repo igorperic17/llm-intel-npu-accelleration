@@ -1,2 +1,2 @@
 # llm-intel-npu-accelleration
-Testing Intel's NPU acceleration libraries
+Testing Intel's NPU accelleration libraries
